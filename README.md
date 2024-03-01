@@ -5,4 +5,3 @@ step -2 docker images ls
         docker run -d 54e5b35bc16f
         docker ps -a
         docker logs d4410f922b2a
-# assignment-solution
